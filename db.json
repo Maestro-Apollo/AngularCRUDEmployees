@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "firstName": "Hehe",
+      "lastName": "lolo",
+      "email": "hehe@gmail.com",
+      "dob": "2024-02-01T15:00:00.000Z",
+      "gender": "male",
+      "education": "Diploma",
+      "company": "Co well",
+      "experience": 2,
+      "salary": 1000000,
+      "id": "58c8"
+    },
+    {
+      "id": "a0fe",
+      "firstName": "Rafi",
+      "lastName": "Mahafid",
+      "email": "rafi@gmail.com",
+      "dob": "2024-02-01T15:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "co-well",
+      "experience": 2,
+      "salary": 100000
+    },
+    {
+      "id": "4526",
+      "firstName": "Sazzad",
+      "lastName": "San",
+      "email": "sazzad@gmail.com",
+      "dob": "2024-02-11T15:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "Co-well",
+      "experience": 2,
+      "salary": 1000000
+    },
+    {
+      "id": "89d6",
+      "firstName": "ette",
+      "lastName": "tesf",
+      "email": "sf@gmail.com",
+      "dob": "2024-02-08T15:00:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "fw",
+      "experience": 1,
+      "salary": 32222
+    }
+  ]
+}
