@@ -21,3 +21,4 @@ Check out the live demo of the application: [Employee Management System](https:/
 
 
 
+![AngularCRUDEmployees](screenshots/S1.png)
