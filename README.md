@@ -21,5 +21,5 @@ Check out the live demo of the application: [Employee Management System](https:/
 
 ## Screenshot
 
-![Employee Management System]([[/screenshots/screenshots/S1.png](https://github.com/Maestro-Apollo/AngularCRUDEmployees/blob/main/screenshots/S1.png?raw=true)https://github.com/Maestro-Apollo/AngularCRUDEmployees/blob/main/screenshots/S1.png?raw=true](https://github.com/Maestro-Apollo/AngularCRUDEmployees/blob/main/screenshots/S1.png?raw=true)https://github.com/Maestro-Apollo/AngularCRUDEmployees/blob/main/screenshots/S1.png?raw=true)
+![Employee Management System]([[[/screenshots/screenshots/S1.png](https://github.com/Maestro-Apollo/AngularCRUDEmployees/blob/main/screenshots/S1.png?raw=true)https://github.com/Maestro-Apollo/AngularCRUDEmployees/blob/main/screenshots/S1.png?raw=true](https://github.com/Maestro-Apollo/AngularCRUDEmployees/blob/main/screenshots/S1.png?raw=true)https://github.com/Maestro-Apollo/AngularCRUDEmployees/blob/main/screenshots/S1.png?raw=true](https://raw.githubusercontent.com/Maestro-Apollo/AngularCRUDEmployees/main/screenshots/S1.png)https://raw.githubusercontent.com/Maestro-Apollo/AngularCRUDEmployees/main/screenshots/S1.png)
 
