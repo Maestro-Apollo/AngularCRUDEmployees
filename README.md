@@ -21,5 +21,15 @@ Check out the live demo of the application: [Employee Management System](https:/
 
 ## Screenshots
 
-### '\u2B50' 1
+### 1
 ![AngularCRUDEmployees](screenshots/S1.png)
+### 2
+![AngularCRUDEmployees](screenshots/S2.png)
+### 3
+![AngularCRUDEmployees](screenshots/S3.png)
+### 4
+![AngularCRUDEmployees](screenshots/S4.png)
+### 5
+![AngularCRUDEmployees](screenshots/S5.png)
+### 6
+![AngularCRUDEmployees](screenshots/S6.png)
