@@ -22,26 +22,22 @@
 
 ## スクリーンショット
 
-### 1
+### 1 全従業員リスト。
 
 ![AngularCRUDEmployees](screenshots/S1.png)
 
-### 2
+### 2 新入社員データの挿入。
 
 ![AngularCRUDEmployees](screenshots/S2.png)
 
-### 3
-
 ![AngularCRUDEmployees](screenshots/S3.png)
 
-### 4
+### 3 新入社員リスト。
 
 ![AngularCRUDEmployees](screenshots/S4.png)
 
-### 5
+### 4 従業員データの更新。
 
 ![AngularCRUDEmployees](screenshots/S5.png)
-
-### 6
 
 ![AngularCRUDEmployees](screenshots/S6.png)
