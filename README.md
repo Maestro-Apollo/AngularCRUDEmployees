@@ -1,35 +1,47 @@
-# Employee Management System
+# 従業員管理システム
 
-Welcome to the Employee Management System! This application allows you to perform CRUD operations (Create, Read, Update, Delete) on employee data.
+従業員管理システムへようこそ!
+このアプリケーションを使用すると、従業員データに対して CRUD 操作 (作成、読み取り、更新、削除) を実行できます。
 
-## Live Demo
+## ライブデモ
 
-Check out the live demo of the application: [Employee Management System](https://angular-crud-employees.netlify.app/)
+アプリケーションのライブデモをチェックしてください。 [従業員管理システム](https://angular-crud-employees.netlify.app/)
 
-## Features
+## 特徴
 
-- **Create**: Add new employees to the system.
-- **Read**: View the list of employees along with their details.
-- **Update**: Edit existing employee information.
-- **Delete**: Remove employees from the system.
+- **作成**: 新しい従業員をシステムに追加します。
+- **読む**: 従業員のリストとその詳細を表示します。
+- **更新**: 既存の従業員情報を編集します。
+- **削除**: システムから従業員を削除します。
 
-## Technologies Used
+## 使用されている技術
 
-- **Angular**: Frontend framework for building the user interface.
-- **JSON Server**: Lightweight mock server to simulate backend API calls.
-- **Angular Material**: UI component library for designing a modern and responsive interface.
+- **Angular**: ユーザー インターフェイスを構築するためのフロントエンド フレームワーク。
+- **JSON サーバー**: バックエンド API 呼び出しをシミュレートする軽量のモック サーバー。
+- **Angular マテリアル**: 最新の応答性の高いインターフェイスを設計するための UI コンポーネント ライブラリ。
 
-## Screenshots
+## スクリーンショット
 
 ### 1
+
 ![AngularCRUDEmployees](screenshots/S1.png)
+
 ### 2
+
 ![AngularCRUDEmployees](screenshots/S2.png)
+
 ### 3
+
 ![AngularCRUDEmployees](screenshots/S3.png)
+
 ### 4
+
 ![AngularCRUDEmployees](screenshots/S4.png)
+
 ### 5
+
 ![AngularCRUDEmployees](screenshots/S5.png)
+
 ### 6
+
 ![AngularCRUDEmployees](screenshots/S6.png)
