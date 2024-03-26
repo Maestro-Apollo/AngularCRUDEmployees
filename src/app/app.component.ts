@@ -6,6 +6,7 @@ import { MatTableDataSource } from '@angular/material/table';
 import { CoreService } from './core/core.service';
 import { EmpAddEditComponent } from './emp-add-edit/emp-add-edit.component';
 import { EmployeeService } from './services/employee.service';
+import { interval } from 'rxjs';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -35,8 +36,14 @@ export class AppComponent implements OnInit {
     private _coreService: CoreService
   ) {}
   ngOnInit(): void {
-    this.getEmployeeList();
+    this.getEmployeeList(); // Fetch initially
+
+    interval(5000) // Fetch data every 5 seconds (adjust the interval as needed)
+      .subscribe(() => {
+        this.getEmployeeList();
+      });
   }
+
 
   openAddEditEmpForm() {
     const dialogRef = this._dialog.open(EmpAddEditComponent);
